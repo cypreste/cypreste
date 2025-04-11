@@ -51,4 +51,4 @@ Se você também curte tecnologia, projetos com propósito ou quer bater um papo
 ---
 
 🚀 _"A maior batalha é contra a gente mesmo, e eu tô nessa pra vencer."_  
-— Raphael Nascimento
+— Raphael Cypreste
