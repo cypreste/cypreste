@@ -1,7 +1,6 @@
 # 👋 Olá! Eu sou o Raphael Cypreste
 
-🎓 Estudante de Ciência da Computação | 🧭 Ex-logística | 💻 Dev em construção  
-☕ Apaixonado por resolver problemas com código e café
+🎓 Estudante de Ciência da Computação | 🧭 Ex-logística | 💻 Dev em construção | ☕ Apaixonado por resolver problemas com código e café
 
 ---
 
