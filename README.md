@@ -1,21 +1,49 @@
-# 💫 About Me:
-# 👋 Olá! Eu sou o Raphael Cypreste<br><br>🎓 Estudante de Ciência da Computação | 🧭 Ex-logística | 💻 Dev em construção | ☕ Apaixonado por resolver problemas com código e café<br><br>---<br><br>## 🧠 Sobre mim<br><br>Tenho 24 anos e, após uma jornada na área administrativa e logística — onde atuei como coordenador de operações de ambulâncias por 3 anos — decidi seguir meu verdadeiro interesse: a tecnologia.<br><br>Desde março de 2025, estou imerso no universo da programação, buscando constantemente aprender e evoluir.<br><br>---<br><br>## 🚀 Atualmente focado em<br><br>- Lógica de programação<br>- Fundamentos e técnicas avançadas em C++<br>- Programação e desenvolvimento back-end<br>- Estudos sobre hacking ético (como hobby, porque adoro esse mundo!)<br><br>---<br><br>## 🎯 Objetivo na área<br><br>Meu foco é me tornar um desenvolvedor back-end sólido, com domínio em linguagens como C++ e Python, além de compreender profundamente estruturas de dados e algoritmos. Busco aplicar esse conhecimento para resolver problemas reais e contribuir com projetos significativos.<br><br>---<br><br>## 🛠️ Tecnologias e ferramentas<br><br>![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)<br>![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)<br>![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)<br>![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)<br><br>---<br><br>## 📫 Contato<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/raphaelcypreste)<br>[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/cypreste_)<br><br>---<br><br>## 📊 Estatísticas do GitHub<br><br>![cypreste GitHub stats](https://github-readme-stats.vercel.app/api?username=cypreste&show_icons=true&theme=tokyonight)<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cypreste&layout=compact&theme=tokyonight)<br>
+# 👋 Olá! Eu sou o Raphael Cypreste
 
-
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Raphael Cypreste) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/397535981823197204) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cypreste_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raphaelcypreste/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/cyprest_e) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@raph9321) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cypreste&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cypreste&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cypreste&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=cypreste&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+🎓 Estudante de Ciência da Computação | 🧭 Ex-logística | 💻 Dev em construção | ☕ Apaixonado por resolver problemas com código e café
 
 ---
-[![](https://visitcount.itsvg.in/api?id=cypreste&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 Sobre mim
+
+Tenho 24 anos e, após uma jornada na área administrativa e logística — onde atuei como coordenador de operações de ambulâncias por 3 anos — decidi seguir meu verdadeiro interesse: a tecnologia.
+
+Desde março de 2025, estou imerso no universo da programação, buscando constantemente aprender e evoluir.
+
+---
+
+## 🚀 Atualmente focado em
+
+- Lógica de programação
+- Fundamentos e técnicas avançadas em C++
+- Programação e desenvolvimento back-end
+- Estudos sobre hacking ético (como hobby, porque adoro esse mundo!)
+
+---
+
+## 🎯 Objetivo na área
+
+Meu foco é me tornar um desenvolvedor back-end sólido, com domínio em linguagens como C++ e Python, além de compreender profundamente estruturas de dados e algoritmos. Busco aplicar esse conhecimento para resolver problemas reais e contribuir com projetos significativos.
+
+---
+
+## 🛠 Tecnologias e ferramentas
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/raphaelcypreste)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/cypreste_)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![cypreste GitHub stats](https://github-readme-stats.vercel.app/api?username=cypreste&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cypreste&layout=compact&theme=tokyonight)
