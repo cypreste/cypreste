@@ -16,7 +16,6 @@ Atualmente focado em:
 
 - **Lógica de programação**
 - **Fundamentos e técnicas avançadas em C++**
-- **Programação e desenvolvimento back-end**
 - **Hacking ético** (como hobby, porque eu amo esse mundo!)
 - **Fundamentos de hardware e software**
 - **Pensamento computacional**
