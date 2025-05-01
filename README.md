@@ -1,64 +1,64 @@
-# 👋 E aí! Eu sou o Raphael Cypreste
+# 👋 Raphael Cypreste | Future Backend Developer & Security Enthusiast
+
+📌 **Ex-Coordenador de Logística** migrando para TI  
+📌 **Cursando Ciência da Computação** | 2025 - Atual  
+📌 **Foco:** C++, Segurança da Informação, Soluções para Saúde  
 
 ---
 
-## 🧠 Sobre mim
+## 🛠️ Tech Stack
 
-Tenho 24 anos e, após uma jornada na área administrativa e logística — onde atuei como coordenador da operação de ambulâncias por 3 anos — decidi seguir meu verdadeiro interesse: a tecnologia.
+**Aprendendo Atualmente:**  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Ethical Hacking](https://img.shields.io/badge/-Security-FF6D00?logo=securityscorecard)
 
-Desde março de 2025, estou cursando Ciência da Computação e explorando com paixão o mundo da programação.
-
----
-
-## 🚀 No que estou mergulhado agora
-
-Atualmente focado em:
-
-- **Lógica de programação**
-- **Fundamentos e técnicas avançadas em C++**
-- **Hacking ético** (como hobby, porque eu amo esse mundo!)
-- **Fundamentos de hardware e software**
-- **Pensamento computacional**
-- **Representação de imagens em computadores**
-
-Você pode acompanhar minhas anotações e aprendizados no repositório [Caderno Digital - Faculdade](https://github.com/cypreste/Caderno-Digital---Faculdade).
+**Ferramentas:**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code)
 
 ---
 
-## 🎯 Objetivo na área
+## 🚀 Projetos
 
-Meu foco é me tornar um desenvolvedor back-end e, futuramente, atuar com segurança da informação.
+### 🚑 [Sistema de Logística de Ambulâncias] *(Em Planejamento)*
+- **Objetivo:** Otimizar atendimentos usando minha experiência operacional + TI
+- **Tecnologias Previstas:** C++/Python, GPS Tracking, API Tempo Real
+- **Diferencial:** Visão prática de quem trabalhou na área
 
----
+### 📓 [Caderno Digital - Faculdade](https://github.com/cypreste/Caderno-Digital---Faculdade)
+Anotações e exercícios do curso de Ciência da Computação
 
-## 💡 Projetos e ideias
-
-Embora ainda não tenha projetos públicos, tenho um plano que me motiva todos os dias:
-
-> Criar um sistema inteligente para logística de ambulâncias, com:
->
-> - Monitoramento em tempo real das unidades  
-> - Exibição de atendimentos pendentes/em andamento  
-> - Visualização de informações importantes para os operadores (como se a sirene está ligada ou não)
-
-Essa ideia vem diretamente da minha experiência prática e do desejo de aplicar tecnologia para melhorar serviços essenciais.
+*(Mais projetos em breve! Estou construindo meu portfólio ativamente)*
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Background Único
+- **3 anos como Coordenador Operacional** de ambulâncias  
+- **Transição para TI** com foco em resolver problemas reais através da tecnologia  
+- **Hobby:** Ethical Hacking (estudos independentes)  
+
+---
+
+## 🌱 Metas 2025
+- Dominar fundamentos avançados de C++
+- Contribuir para um projeto open-source
+- Desenvolver meu primeiro MVP (Minimum Viable Product)
+
+---
+
+## 📫 Vamos Conversar?
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raphaelcypreste/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rapha.cypreste@gmail.com)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://www.cyprestedev.com.br/)
+
+---
 
 <div align="center">
 
-![Raphael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cypreste&show_icons=true&theme=tokyonight&hide=prs&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cypreste&layout=compact&theme=tokyonight)
+📊 **GitHub Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cypreste&show_icons=true&theme=tokyonight&hide=prs&count_private=true)
 
 </div>
-
----
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaelcypreste/)
-[![Email](https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rapha.cypreste@gmail.com)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-%23000000?style=for-the-badge&logo=firefox&logoColor=white)](https://www.cyprestedev.com.br/)
