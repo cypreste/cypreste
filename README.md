@@ -34,10 +34,14 @@ Anotações e exercícios do curso de Ciência da Computação
 
 ---
 
-## 📚 Background Único
+## 🎯 Minha Jornada: Da Logística para o Código  
+
 - **3 anos como Coordenador Operacional** de ambulâncias  
-- **Transição para TI** com foco em resolver problemas reais através da tecnologia  
-- **Hobby:** Ethical Hacking (estudos independentes)  
+  - Gerenciamento de equipes, tomada de decisão sob pressão, otimização de rotas  
+- **Transição para TI** com foco em:  
+  - Backend: sistemas robustos (inspirado pela necessidade de soluções estáveis na saúde)  
+  - Segurança: proteção de dados sensíveis (como os que lidava em prontuários)  
+  - **Hobby:** Ethical Hacking (estudo por paixão pela área de segurança)
 
 ---
 
