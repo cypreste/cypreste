@@ -25,7 +25,7 @@ Centro de Distribuição com operação **cross-docking**:
 - Cumprimento de prazos e SLAs
 - Visão integrada do fluxo logístico e da cadeia de suprimentos
 
-### **Coordenador de Logística (3 anos)**
+### **Coordenador de Logística**
 Central de Regulação de Ambulâncias (urgência e emergência):
 - Coordenação de equipes operacionais
 - Organização de rotinas críticas
