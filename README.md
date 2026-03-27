@@ -26,7 +26,7 @@ Centro de Distribuição com operação **cross-docking**:
 - Visão integrada do fluxo logístico e da cadeia de suprimentos
 
 ### **Coordenador de Logística**
-Central de Regulação de Ambulâncias (urgência e emergência):
+Central de Regulação de Ambulâncias:
 - Coordenação de equipes operacionais
 - Organização de rotinas críticas
 - Gestão de recursos e tomada de decisão sob pressão
